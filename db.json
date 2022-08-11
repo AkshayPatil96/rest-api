@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "country": "India",
+      "city": "Mumbai",
+      "population": "7654321"
+    },
+    {
+      "country": "india",
+      "city": "delhi",
+      "population": "15616",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "country": "India",
+      "city": "dsa",
+      "population": "7654321"
+    },
+    {
+      "country": "india",
+      "city": "srwe",
+      "population": "15616",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
